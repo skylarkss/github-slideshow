@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Don't attribute to malice what could be due to stupidity"
 Use the left arrow to go back!
